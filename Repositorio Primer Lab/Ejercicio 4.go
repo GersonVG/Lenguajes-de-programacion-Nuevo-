@@ -26,9 +26,9 @@ func main() {
 		{Modelo: "Converse All Star", Precio: 40000, Talla: 37, Stock: 2},
 		{Modelo: "Vans Old Skool", Precio: 48000, Talla: 39, Stock: 8},
 		{Modelo: "New Balance 990", Precio: 70000, Talla: 43, Stock: 4},
-		{Modelo: "Under Armour HOVR", Precio: 58000, Talla: 44, Stock: 6},
-		{Modelo: "Salomon Speedcross", Precio: 75000, Talla: 42, Stock: 9},
-		{Modelo: "Mizuno Wave Rider", Precio: 52000, Talla: 40, Stock: 5},
+		{Modelo: "Nike Limited Edition", Precio: 58000, Talla: 44, Stock: 6},
+		{Modelo: "Speedcross", Precio: 75000, Talla: 42, Stock: 9},
+		{Modelo: "Jordan", Precio: 52000, Talla: 40, Stock: 5},
 	}
 
 	fmt.Println("Bienvenido a la Tienda de Calzados!")
