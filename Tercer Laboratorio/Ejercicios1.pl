@@ -1,3 +1,5 @@
+% Gerson Vargas Gamboa 2020234629
+
 % Ejercicio 1
 sumlist([], 0).
 sumlist([X|Xs], S) :-
